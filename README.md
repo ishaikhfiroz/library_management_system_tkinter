@@ -4,5 +4,6 @@ GUI written in tKinter Module,
 Database is used MySQL,
 Images from Canva.com
 
-Thanks in Advance \n
+Thanks in Advance
+
 Shaikh Firoz
